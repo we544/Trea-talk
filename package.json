@@ -1,0 +1,13 @@
+{
+  "name": "sign-ai-app",
+  "version": "1.0.0",
+  "main": "App.js",
+  "dependencies": {
+    "expo": "~50.0.0",
+    "expo-camera": "~14.0.0",
+    "expo-speech": "~11.0.0",
+    "axios": "^1.6.0",
+    "react": "18.2.0",
+    "react-native": "0.73.0"
+  }
+}
